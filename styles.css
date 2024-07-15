@@ -4,6 +4,10 @@
 	box-sizing: border-box;
 }
 
+#navbarNav {
+	justify-content: end;
+}
+
 
 
 
